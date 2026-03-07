@@ -17,4 +17,5 @@ Config.Messages = {
     deleted = 'Entity deleted.',
     activated = 'Delgun activated.',
     deactivated = 'Delgun deactivated.',
+    out_of_range = 'Target is out of range.',
 }
