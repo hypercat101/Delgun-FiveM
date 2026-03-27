@@ -2,13 +2,12 @@
 
 # DELGUN-FIVEM
 
-*Empower Moderation, Command Control Instantly and Securely*
 
 ![last commit](https://img.shields.io/github/last-commit/hypercat101/Delgun-FiveM?label=last%20commit&color=blue)
 ![lua](https://img.shields.io/badge/lua-100.0%25-blue)
 ![languages](https://img.shields.io/badge/languages-1-gray)
 
-*Built with the tools and technologies:*
+*Built with:*
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
@@ -101,18 +100,6 @@ add_ace group.admin delgun.use allow
 ```
 
 This grants the `admin` group access. Replace `group.admin` with any group or identifier you use on your server.
-
------
-
-## Project Stats
-
-|Metric     |Value     |
-|-----------|----------|
-|Language   |Lua 100%  |
-|Stars      |⭐ 1       |
-|Forks      |🍴 0       |
-|Issues     |🐛 0       |
-|Last Commit|March 2026|
 
 -----
 
